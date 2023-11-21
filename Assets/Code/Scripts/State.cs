@@ -13,4 +13,6 @@ public class State : ScriptableObject
     //[SerializeField] -> atributo que permite que una variable o referencia siga siendo privada pero accesible desde el editor de Unity
     [TextArea(14, 10)] [SerializeField] string storyText;
 
+    //Hola que tal he hecho un cambio en un script
+
 }
