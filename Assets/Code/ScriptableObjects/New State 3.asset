@@ -10,10 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7e05d9dda2f1e104e88f2901d4b8878b, type: 3}
-  m_Name: New State
+  m_Name: New State 3
   m_EditorClassIdentifier: 
-  storyText: "Hola, soy el anciano Pablo Motos. \xA1Que salga la china!"
+  storyText: Ahora viene el invitado
   nextStates:
-  - {fileID: 11400000, guid: e825032e85ca1c649b895c98b750a5cb, type: 2}
-  - {fileID: 11400000, guid: f874c96449f7c0245a8c3761a934433d, type: 2}
-  - {fileID: 11400000, guid: 6a214f86d356eba46aa9f07b2fd5f776, type: 2}
+  - {fileID: 11400000, guid: 30f37ac74c5c49842a421539c8bd8741, type: 2}

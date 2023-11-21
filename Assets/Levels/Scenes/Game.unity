@@ -1153,6 +1153,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58ce306eead627242bfd810ca6eab532, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  textComponent: {fileID: 543949829}
+  startingState: {fileID: 11400000, guid: 30f37ac74c5c49842a421539c8bd8741, type: 2}
 --- !u!1 &2130504393
 GameObject:
   m_ObjectHideFlags: 0
