@@ -12,4 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e05d9dda2f1e104e88f2901d4b8878b, type: 3}
   m_Name: New State
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: "jassjklajkl\xF1avkl\xF1cv\nasf\nad\nvapdvbad\nb\nvb\nsvb\nagbn\nsg\nj
+    ghj\nthj \ndtj\ndtj \ntj\nts\ndff\nadf\nf\naf\ns\n"
+  nextStates:
+  - {fileID: 11400000, guid: e825032e85ca1c649b895c98b750a5cb, type: 2}
+  - {fileID: 11400000, guid: e825032e85ca1c649b895c98b750a5cb, type: 2}
+  - {fileID: 11400000, guid: e825032e85ca1c649b895c98b750a5cb, type: 2}
+  - {fileID: 11400000, guid: e825032e85ca1c649b895c98b750a5cb, type: 2}
+  - {fileID: 11400000, guid: e825032e85ca1c649b895c98b750a5cb, type: 2}
+  - {fileID: 11400000, guid: e825032e85ca1c649b895c98b750a5cb, type: 2}
+  - {fileID: 11400000, guid: e825032e85ca1c649b895c98b750a5cb, type: 2}
