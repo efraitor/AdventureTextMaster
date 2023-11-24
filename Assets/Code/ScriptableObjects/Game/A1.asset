@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7e05d9dda2f1e104e88f2901d4b8878b, type: 3}
-  m_Name: New State 2
+  m_Name: A1
   m_EditorClassIdentifier: 
-  storyText: Ahora viene Jandro
+  storyText: "Le damos su bast\xF3n"
   nextStates:
-  - {fileID: 11400000, guid: 30f37ac74c5c49842a421539c8bd8741, type: 2}
+  - {fileID: 11400000, guid: a2558ea5a6815fe40a4dad8a965c947e, type: 2}

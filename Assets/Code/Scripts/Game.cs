@@ -38,10 +38,20 @@ public class Game : MonoBehaviour
         State[] nextStates = stateRef.GetNextStates();
 
         //Si pulsamos la tecla X del teclado cambiamos al siguiente estado
-        if (Input.GetKeyDown(KeyCode.X))
+        if (Input.GetKeyDown(KeyCode.Alpha1))
         {
             //Del estado en el que esté pasa al siguiente estado que esté en la posición del array 0
             stateRef = nextStates[0];
+        }
+        else if (Input.GetKeyDown(KeyCode.Alpha2))
+        {
+            //Del estado en el que esté pasa al siguiente estado que esté en la posición del array 0
+            stateRef = nextStates[1];
+        }
+        else if (Input.GetKeyDown(KeyCode.Alpha3))
+        {
+            //Del estado en el que esté pasa al siguiente estado que esté en la posición del array 0
+            stateRef = nextStates[2];
         }
         //Accedemos al componente text dentro del textComponent y metemos lo que haya dentro del campo storyText del estado actual
         textComponent.text = stateRef.GetStateStoryText();

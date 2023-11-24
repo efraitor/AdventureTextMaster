@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e05d9dda2f1e104e88f2901d4b8878b, type: 3}
+  m_Name: B
+  m_EditorClassIdentifier: 
+  storyText: "Vamos a una aventura. Pero antes una prueba.\n\nEste bast\xF3n lo he
+    encontrado antes, y s\xE9 que era tuyo.\n\nPero ya no recuerdo de que material
+    era.\n\n1 - Le dices que era de Oro\n2 - Le dices que era de plata\n3 - Le dices
+    que era de bronce"
+  nextStates: []
